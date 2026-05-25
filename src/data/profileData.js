@@ -10,7 +10,7 @@ export const profile = {
   phone: "+91 93818 06158",
   location: "Allagadda, Andhra Pradesh, India",
   github: "https://github.com/ssrssudharshanreddy",
-  linkedin: "https://linkedin.com/in/sudharshan",
+  linkedin: "https://www.linkedin.com/in/s-sudharshan-reddy-b52202370/",
   cgpa: "3.7 / 4.0 ",
   university: "Aurora Deemed to be University",
   degree: "B.Tech in Computer Science",
